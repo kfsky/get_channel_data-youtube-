@@ -1,7 +1,7 @@
 # get_channel_data-youtube-
 
 ・search_video_datas.py
-
+ 
  scraping_youtube_channel
  
  scraping the youtube channel you want.
